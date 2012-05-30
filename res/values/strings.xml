@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">PrimerWidget</string>
+    <string name="widget_label">Mi Primer Widget</string>
+    <string name="boton">¡Púlsame!</string>
+</resources>
